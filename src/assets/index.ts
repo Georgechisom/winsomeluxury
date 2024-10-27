@@ -1,4 +1,4 @@
-import Logo from "./winluxbgre.png";
+import Logo from "./logo.png";
 import DiscountOne from "./discountOne.jpg";
 import DiscountTwo from "./discountTwo.jpg";
 import ProductTwo from "./productTwo.jpg";
@@ -8,7 +8,10 @@ import ProductThree from "./productThree.png";
 // import saveIcon from "./footerIcons/";
 // import tagIcon from "./footerIcons/";
 // import smileIcon from "./footerIcons/";
-// import payment from "";
+import FreeShipping from "./footerIcons/f_shipp.png";
+import Warranty from "./footerIcons/warranty.png";
+import payment from "./payment.jpg";
+import Return from "./footerIcons/item_return1.jpg";
 // import brandOne from "./brands/";
 // import brandTwo from "./brands/";
 // import brandThree from "./brands/";
@@ -25,11 +28,14 @@ export {
     ProductOne,
     ProductTwo,
     ProductThree,
+    FreeShipping,
+    Warranty,
+    Return,
     // homeIcon,
     // saveIcon,
     // tagIcon,
     // smileIcon,
-    // payment,
+    payment,
     // brandOne,
     // brandTwo,
     // brandThree,
